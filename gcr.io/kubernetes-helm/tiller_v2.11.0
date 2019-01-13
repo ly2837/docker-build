@@ -1,0 +1,3 @@
+FROM  gcr.io/kubernetes-helm/tiller:v2.11.0
+
+MAINTAINER q280 "2805762863@qq.com"
