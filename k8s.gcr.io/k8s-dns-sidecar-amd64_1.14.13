@@ -1,0 +1,3 @@
+FROM  k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.13
+
+MAINTAINER q280 "2805762863@qq.com"
