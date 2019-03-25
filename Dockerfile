@@ -1,3 +1,1 @@
-FROM  k8s.gcr.io/pause-amd64:3.1
-
-MAINTAINER q280 "2805762863@qq.com"
+FROM docker.elastic.co/kibana/kibana-oss:6.6.1
