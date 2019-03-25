@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes_incubator/nfs-provisioner:v1.0.9
+FROM quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
